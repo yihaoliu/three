@@ -1,6 +1,3 @@
-
-
-
 var scene = new THREE.Scene(); //实例化一个场景
 var camera = new THREE.PerspectiveCamera( 75, window.innerWidth/window.innerHeight, 0.1, 1000 ); //实例化一个摄像头
 

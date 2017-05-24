@@ -9,3 +9,15 @@
   padding-left: 10px;
   padding-right: 10px;
 }
+.control{
+  display: inline-block;
+}
+.control span{
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+  cursor: pointer;
+  background:#ccc;
+}
